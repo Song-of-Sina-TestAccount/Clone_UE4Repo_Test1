@@ -11,7 +11,7 @@ Then link your Github account to your Epic games Account, here are some instruct
 ### Getting started:
 Now that you've followed the above steps on getting setup you can now follow the numbered instructions below to practise cloning this Unreal project. These same instructions are also on Github when you select the first link below and will be the first thing you see, it's also titled as README.md.
 
-1: Follow this link to the practice repository https://github.com/Xjana/UE_Test1 and select the clone button and copy the URL or copy it from here. (https://github.com/Xjana/UE_Test1.git)
+1: Follow this link to the practice repository https://github.com/Song-of-Sina-TestAccount/Clone_UE4Repo_Test1.git and select the clone button and copy the URL.
 
 2: Open your Github Desktop and select clone this repository either by selecting 'clone repository from the internet' and make sure you are on the URL TAB. Paste the URL link from Github from step 1 into the “Repository URL” Section. Before selecting clone to navigate to the Local Path section at the bottom selecting your local path folder, clone this repo into a new empty folder. Cloning a repository cannot be done in folders that already contain items or other files. If ready CLONE. This will take a few minutes as it is downloading onto your Drive.
 
