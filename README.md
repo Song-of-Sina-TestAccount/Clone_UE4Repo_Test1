@@ -1,15 +1,15 @@
-# UE_Test1 How to clone a repository UE4 Project from GitHub Instructions: 
+# UE_Test1 How to clone a repository containing a UE4 Project from GitHub Instructions: 
 
-The purpose of this is to teach you how to view and edit another persons UE4 scene via Github. To do this you will practise cloning a repository which contains a UE4 project from Github, creating and naming your own branch, make changes to the scene you just cloned and push your branch with your own edits made to the scene back up to Github for someone else to view.
+The purpose of this is to teach you how to view and edit another persons UE4 scene via Github. To do this you will practise cloning a repository which contains a UE4 project from Github, creating and naming your own branch, make changes to the scene you just cloned and lastly pushing your branch with your own edits made to the scene back up to Github for someone else to view.
 
 
 ### Getting setup:
-Before even opening UE4, start by creating a GitHub account at https://github.com/ and download the Github Desktop app.
-Then link your Github account to your Epic games Account, here are some instructions on how to do it. Follow it from steps 2 to 7. https://www.unrealengine.com/en-US/ue4-on-github
+Before even opening UE4, start by creating a GitHub account at https://github.com/ and downloading the Github Desktop app here https://desktop.github.com/.
+Then link your Github account to your Epic games Account, here are some instructions on how to do it. Follow it from steps 2 to 7 https://www.unrealengine.com/en-US/ue4-on-github. Afterwards you will receive an email to confirm you have successfully linked your Github account with your Epic Games account. Make sure your Epic games account is the same one you are logged in with when you work with Unreal or the Epic Games launcher.
 
 
 ### Getting started:
-Now that you've followed the above steps on getting setup you can now follow the numbered instructions below to practise cloning this Unreal project.
+Now that you've followed the above steps on getting setup you can now follow the numbered instructions below to practise cloning this Unreal project. These same instructions are also on Github when you select the first link below and will be the first thing you see, it's also titled as README.md.
 
 1: Follow this link to the practice repository https://github.com/Xjana/UE_Test1 and select the clone button and copy the URL or copy it from here. (https://github.com/Xjana/UE_Test1.git)
 
