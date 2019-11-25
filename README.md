@@ -3,11 +3,15 @@
 This is to test cloning a repository which contains a UE4 project from Github, to create and name your own branch, make changes to the scene and push your branch back up to Github.
 
 
-Cloning A Repository UE4 Project from GitHub Instructions: 
+## Cloning A Repository UE4 Project from GitHub Instructions: 
 
-Getting setup:
-First, start by creating a GitHub account at https://github.com/ and download the Github Desktop app.
+### Getting setup:
+Before even opening UE4, start by creating a GitHub account at https://github.com/ and download the Github Desktop app.
 Then link your Github account to your Epic games Account, here are some instructions on how to do it. Follow it from steps 2 to 7. https://www.unrealengine.com/en-US/ue4-on-github
+
+
+### Getting started:
+Now that you've followed the above steps on getting setup you can now follow the numbered instructions below to practise cloning this Unreal project.
 
 1: Follow this link to the practice repository https://github.com/Xjana/UE_Test1 and select the clone button and copy the URL or copy it from here. (https://github.com/Xjana/UE_Test1.git)
 
