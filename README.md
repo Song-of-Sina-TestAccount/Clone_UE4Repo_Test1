@@ -1,9 +1,7 @@
-# UE_Test1
+# UE_Test1 How to clone a repository UE4 Project from GitHub Instructions: 
 
-This is to test cloning a repository which contains a UE4 project from Github, to create and name your own branch, make changes to the scene and push your branch back up to Github.
+The purpose of this is to teach you how to view and edit another persons UE4 scene via Github. To do this you will practise cloning a repository which contains a UE4 project from Github, creating and naming your own branch, make changes to the scene you just cloned and push your branch with your own edits made to the scene back up to Github for someone else to view.
 
-
-## Cloning A Repository UE4 Project from GitHub Instructions: 
 
 ### Getting setup:
 Before even opening UE4, start by creating a GitHub account at https://github.com/ and download the Github Desktop app.
