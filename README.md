@@ -4,6 +4,8 @@ The purpose of this is to teach you how to view and edit another persons UE4 sce
 
 
 ### Getting setup:
+Please start by requesting access to the organization by messaging Jacob or Xjanayour direct email into discord and one of us will send a invitational link.
+
 Before even opening UE4, start by creating a GitHub account at https://github.com/ and downloading the Github Desktop app here https://desktop.github.com/.
 Then link your Github account to your Epic games Account, here are some instructions on how to do it. Follow it from steps 2 to 7 https://www.unrealengine.com/en-US/ue4-on-github. Afterwards you will receive an email to confirm you have successfully linked your Github account with your Epic Games account. Make sure your Epic games account is the same one you are logged in with when you work with Unreal or the Epic Games launcher.
 
